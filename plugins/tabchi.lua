@@ -1,4 +1,4 @@
-local sudomsg = 282958812 -- put your id here
+local sudomsg = 374734484 -- put your id here
 local function reload_plugins( )
   plugins = {}
   load_plugins()
@@ -277,7 +277,7 @@ local text =[[
 🔰!serverinfo🔰
 نمایش وضعیت سورس
 ---------------------------------
-channel : @LuaError
+channel : @LockerTeam
 ]]
 return text
 end
